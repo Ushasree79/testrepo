@@ -1,0 +1,4 @@
+this is another file of text2
+for merging purpose 
+we are using git bash here
+
